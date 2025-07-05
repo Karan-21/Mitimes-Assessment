@@ -43,8 +43,8 @@ This project demonstrates API interaction, async control flow, and clean, modern
 ### 🧑‍💻 Clone this repo
 
 ```bash
-git clone https://github.com/your-username/mitimes-assessment.git
-cd mitimes-assessment
+git clone https://github.com/Karan-21/Mitimes-Assessment.git
+cd Mitimes-Assessment
 ```
 
 ### 📂 File structure
