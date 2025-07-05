@@ -1,7 +1,7 @@
 # 🚀 Mitimes Developer Assessment Submission
 
 Welcome to my technical submission for the **Senior Developer** role at [Mitimes](https://au.mitimes.com/) 👋  
-This project demonstrates API interaction, async control flow, and clean, modern JavaScript (Node.js) development — all designed with simplicity, clarity, and performance in mind.
+This project demonstrates API interaction, async control flow, and clean, modern JavaScript (Node.js) development, all designed with simplicity, clarity, and performance in mind.
 
 ---
 
@@ -135,7 +135,7 @@ const applyResponse = await fetchRequest(`${BASE_URL}/apply`, {
 ```
 
 ### 📋 5. Output Results to Console
-Prints the server's response to the terminal — including the status and body — so the developer (or reviewer) gets instant feedback on the submission outcome.
+Prints the server's response to the terminal, including the status and body, so the developer (or reviewer) gets instant feedback on the submission outcome.
 
 ```js
 console.log(`Status Code: ${applyResponse.status_code}`);
