@@ -142,6 +142,9 @@ console.log(`Status Code: ${applyResponse.status_code}`);
 console.log(`Response Body:\n`, applyResponse);
 ```
 
+### 🏆 6. Screenshot for the Final Output
+![screenshot](https://private-user-images.githubusercontent.com/64781870/462810889-0a31ef57-d63d-4e7f-9a14-c37ef2779336.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE3MzcyMjksIm5iZiI6MTc1MTczNjkyOSwicGF0aCI6Ii82NDc4MTg3MC80NjI4MTA4ODktMGEzMWVmNTctZDYzZC00ZTdmLTlhMTQtYzM3ZWYyNzc5MzM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA1VDE3MzUyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjZWE4MjIxZWQ1MDkyMTkzOTdiZDVhOGM5ZTI0ZDgyNzAxZTBkYWFhZTcxM2EwNjk4NzVkMDg1N2U2MjRjYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eIvM2ImnUKu-JvYMntGGR5eB366HU9RLPVHLdvFoWdU)
+
 
 ### 🏁 Final Words
 Thank you for reviewing my submission! I’m genuinely excited about the opportunity to work at Mitimes and contribute to your impactful work in legal tech and timekeeping automation.
